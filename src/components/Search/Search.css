@@ -1,0 +1,8 @@
+.searchbar{
+    width: 80%;
+    margin: 10px auto;
+}
+
+.searchbar__search{
+    width: 100%;
+}
